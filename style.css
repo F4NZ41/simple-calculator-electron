@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    width: 400px;
+    height: 575px;
+    background-color: #1f1f1f;
+    color: white;
+}
+
+.numdisplay {
+    height: 225px;
+    background-color: #000000;
+}
+
+.numdisplay p {
+    display: inline;
+    font-size: 72px;
+}
+
+.numandop {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+}
+
+.onetonine {
+    width: 60px;
+    height: 60px;
+}
+
+.numzero {
+    width: 184px;
+    height: 60px;
+}
+
+.num1 {
+    display: flex;
+    
+}
+
+
+.numbers {
+    height: 350;
+    text-align: center;
+    font-size: 24px;
+}
+
+.button {
+    border: rgba(255, 255, 255, 0.1) 1px solid;
+}
+
+.button:hover {
+    border: rgba(255, 255, 255, 0.3) 1px solid;
+    background-color: #303030;
+}
+
+.button:active {
+    border: rgba(255, 255, 255, 1) 1px solid;
+}
+
+.divider {
+    background-color: #6929ff;
+    width: 13px;
+}

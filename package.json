@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "0.0.1",
+  "description": "just a simple calculator based on electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "memer",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^12.0.0"
+  }
+}
